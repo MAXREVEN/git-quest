@@ -1,1 +1,1 @@
-gadget : agent47
+gadget : magic pen
