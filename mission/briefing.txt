@@ -1,6 +1,6 @@
   SECURINETS ENIT   ::   OPERATION GIT QUEST
 objective: master version control, leave no trace
            (except beautiful commits)
-codename: agent47
+codename: agent 47
 status:   STANDBY
 clearance: LEVEL-5
